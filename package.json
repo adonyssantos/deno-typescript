@@ -1,0 +1,20 @@
+{
+  "name": "deno-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript with Deno",
+  "main": "index.js",
+  "scripts": {
+    "start": "deno run src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonyssantos/deno-typescript.git"
+  },
+  "keywords": [],
+  "author": "Adonys Santos <adonyssantosjimenez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adonyssantos/deno-typescript/issues"
+  },
+  "homepage": "https://github.com/adonyssantos/deno-typescript#readme"
+}
