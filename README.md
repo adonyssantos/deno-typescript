@@ -33,3 +33,4 @@
 **¡La respuesta es que no se puede aprender TypeScript sin aprender JavaScript!** TypeScript comparte la sintaxis y el comportamiento en tiempo de ejecución con JavaScript, por lo que todo lo que aprenda sobre JavaScript te ayudará a aprender TypeScript al mismo tiempo. 😉
 
 - [Instalación](./docs/installation.md)
+- [Corriendo TypeScript con Deno](./docs/running-typescript-with-deno.md)
