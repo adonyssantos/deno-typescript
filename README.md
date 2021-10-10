@@ -34,3 +34,4 @@
 
 - [Instalación](./docs/installation.md)
 - [Corriendo TypeScript con Deno](./docs/running-typescript-with-deno.md)
+- [Tipos de datos explicitos](./docs/explicit-types.md)
